@@ -28,30 +28,7 @@
 
 ---
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
 
-<div align="center">
-
-  <!-- Card 1 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrolucasods&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180em"/>
-
-  <!-- Card 2 -->
-  <img src="https://streak-stats.demolab.com?user=pedrolucasods&theme=tokyonight&hide_border=true&background=0D1117&currStreakNum=58A6FF&fire=FF6B00&currStreakLabel=FFFFFF&sideLabels=58A6FF" height="180em"/>
-
-  <!-- Card 3 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasods&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
-
-</div>
-
----
-
-<h3 align="center">🏆 Conquistas e Atividade</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrolucasods&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
-</p>
-
----
 
 ### 🌐 Conecte-se comigo!
 <p align="center">
