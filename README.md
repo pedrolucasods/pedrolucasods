@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 - 💻 Desenvolvedor focado em back-end e web.  
-- 🌱 Atualmente aprimorando meus conhecimentos em **Django** e **Express**.  
+- 🌱 Atualmente aprimorando meus conhecimentos em **Express**.  
 - 🎯 Meu objetivo é criar aplicações eficientes, escaláveis e com ótimo design.  
 - 💬 Gosto de aprender, compartilhar e contribuir com a comunidade dev.
 
