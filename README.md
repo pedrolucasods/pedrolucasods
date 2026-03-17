@@ -32,7 +32,7 @@
 
 ### 🌐 Conecte-se comigo!
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-lucas-oliveira-da-silva-40ba542bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-lucas-40ba542bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ploliveira1805@gmail.com">
