@@ -1,27 +1,27 @@
 <h1 align="center">Pedro Lucas</h1>
 
 <p align="center">
-Analista de Quality Assurance (QA) | Desenvolvimento Backend
+Quality Assurance (QA) Analyst | Backend Development
 </p>
 
 ---
 
-### Sobre
+### About
 
-Profissional da área de tecnologia com experiência em **Quality Assurance (QA)** e forte interesse em **desenvolvimento backend e aplicações web**.
+Technology professional with experience in **Quality Assurance (QA)** and a strong interest in **backend development and web applications**.
 
-Atualmente focado em aprofundar conhecimentos em **Node.js, Express e bancos de dados relacionais**, desenvolvendo projetos pessoais que simulam sistemas reais e arquiteturas backend.
-
----
-
-### Formação
-
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Instituto Federal de Mato Grosso do Sul (IFMS) *(cursando)*
-* **Técnico em Análise e Desenvolvimento de Sistemas** — SENAC
+Currently focused on deepening knowledge in **Node.js, Express, and relational databases**, building personal projects that simulate real-world systems and backend architectures.
 
 ---
 
-### Tecnologias e Ferramentas
+### Education
+
+* **Associate Degree in Systems Analysis and Development** — Federal Institute of Mato Grosso do Sul (IFMS) *(in progress)*
+* **Technical Degree in Systems Analysis and Development** — SENAC
+
+---
+
+### Technologies and Tools
 
 <p align="center">
 
@@ -33,16 +33,16 @@ Atualmente focado em aprofundar conhecimentos em **Node.js, Express e bancos de 
 
 ---
 
-### Contato
+### Contact
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pedro-lucas-40ba542bb/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ploliveira1805@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
