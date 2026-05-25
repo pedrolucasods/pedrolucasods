@@ -10,7 +10,7 @@ Quality Assurance (QA) Analyst | Backend Development
 
 Technology professional with experience in **Quality Assurance (QA)** and a strong interest in **backend development and web applications**.
 
-Currently focused on deepening knowledge in **Node.js, Express, and relational databases**, building personal projects that simulate real-world systems and backend architectures.
+Currently focused on deepening knowledge in **Node.js, Express, Adonis, and relational databases**, building personal projects that simulate real-world systems and backend architectures.
 
 ---
 
@@ -25,7 +25,7 @@ Currently focused on deepening knowledge in **Node.js, Express, and relational d
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,sqlite,mysql,django" />
+<img src="https://skillicons.dev/icons?i=postman,js,nodejs,express,adonis,python,django,html,css,sqlite,mysql" />
 
 <img src="assets/handleb3.png" width="48" height="48" alt="Handlebars"/>
 
