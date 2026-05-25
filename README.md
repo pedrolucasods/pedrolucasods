@@ -25,7 +25,7 @@ Currently focused on deepening knowledge in **Node.js, Express, Adonis, and rela
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postman,js,nodejs,express,adonis,python,django,html,css,sqlite,mysql" />
+<img src="https://skillicons.dev/icons?i=postman,ts,js,nodejs,express,adonis,python,django,html,css,sqlite,mysql" />
 
 <img src="assets/handleb3.png" width="48" height="48" alt="Handlebars"/>
 
